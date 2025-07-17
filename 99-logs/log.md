@@ -11,4 +11,7 @@
 - learn structs and interface.
 - make a rough notebook directory for hands on.
 - go can run on gcc compiler!
-- guilt, determined to not break the flow from now on...
+- guilt, determined to not break the flow from now on...\
+
+## Day-3 > Tue ; July 8, 2025
+- study errors and loop
