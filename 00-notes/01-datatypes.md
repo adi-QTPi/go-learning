@@ -14,6 +14,8 @@ stick to *int, uint, float64, complex128* amd following default types for most g
 - float64
 - complex128
 
+![alt text](image.png)
+
 ### 🟠 Integer Types
 
 | Type     | Size     | Signed | Description                              |

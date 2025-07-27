@@ -15,3 +15,9 @@
 
 ## Day-3 > Tue ; July 8, 2025
 - study errors and loop
+
+## Day-4 > Sun ; July 27, 2025
+- Start reading Idiomatic Approach (Google books)
+- Makefile in Go
+- using `golangci-lint` as superset of `go vet`
+- Learn arrays, slices (incomplete)
