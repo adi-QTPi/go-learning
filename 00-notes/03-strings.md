@@ -34,7 +34,7 @@ fmt.Printf("this is %f years old", 10.523)
 
 //rounding of to the required decimal place
 fmt.Printf("this is %.2f years old", 10.523)
-// this is 10.5 years old
+// this is 10.52 years old
 ```
 
 ## Use

@@ -21,3 +21,11 @@
 - Makefile in Go
 - using `golangci-lint` as superset of `go vet`
 - Learn arrays, slices (incomplete)
+
+## Day-5 > Mon ; July 28, 2025
+- Finish Slices
+- Conversion between slice and array.
+- Touch pointer theory.
+- Representing a set using maps.
+- Structs, anonymous structs.
+- Conditions for convertablility among structs.
