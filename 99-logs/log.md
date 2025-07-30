@@ -29,3 +29,8 @@
 - Representing a set using maps.
 - Structs, anonymous structs.
 - Conditions for convertablility among structs.
+
+## Day-6 > Mon ; July 30, 2025
+- Blocks, shadowing variables.
+- Functions (without notes )
+- COnditionals, Universe block
