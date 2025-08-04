@@ -34,3 +34,11 @@
 - Blocks, shadowing variables.
 - Functions (without notes )
 - COnditionals, Universe block
+
+## Day-7 > Mon ; Aug 4, 2025
+- functions
+- Pointers, 
+- Stack and Heap : basic memory management and performance
+- types, interfaces and structs
+- embedded types and usefulness
+- Go not being Object oriented
